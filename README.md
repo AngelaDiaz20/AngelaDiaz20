@@ -4,6 +4,8 @@ Hi 👋 My name is Angela Díaz
 Front-end Developer
 -------------------
 
+[![banner-git.png](https://i.postimg.cc/m2RDWbGt/banner-git.png)](https://postimg.cc/vDqMWwTs)
+
 I recently started in the world of front-end web development, inspired by the desire to bring those ideas to life, give wings to that creativity and provide solutions to those problems that usually surround us.
 
 * 🌍  I'm based in Bogotá, Colombia
@@ -26,7 +28,6 @@ I recently started in the world of front-end web development, inspired by the de
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/angeladiaz19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/AngelusDiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/UGDy7uDHHW" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AngelaDiaz20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angela-díaz-4617a0102" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/angelusdiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
