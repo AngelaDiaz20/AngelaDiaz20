@@ -43,8 +43,5 @@ I recently started in the world of front-end web development, inspired by the de
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AngelaDiaz20&icon=0&color=11)](https://visitcount.itsvg.in)
